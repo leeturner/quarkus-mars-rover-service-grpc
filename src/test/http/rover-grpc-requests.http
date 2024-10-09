@@ -1,0 +1,4 @@
+### gRPC request to get all the mars rovers
+GRPC localhost:9000/rovers.MarsRoverGrpc/rovers
+
+###
